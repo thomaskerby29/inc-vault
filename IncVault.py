@@ -1,4 +1,5 @@
 try:
+    import time
     from os.path import exists
     import os
     import bcrypt
